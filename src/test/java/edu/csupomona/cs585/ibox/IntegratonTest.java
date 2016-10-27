@@ -18,7 +18,7 @@ import edu.csupomona.cs585.ibox.sync.GoogleDriveServiceProvider;
 
 public class IntegratonTest {
 
-	Drive mockDriveService;
+/*	Drive mockDriveService;
 	GoogleDriveFileSyncManager GoogleSync;
 		public void setup() throws IOException{		
 		mockDriveService = GoogleDriveServiceProvider.get().getGoogleDriveClient() ;
@@ -118,6 +118,6 @@ public class IntegratonTest {
 		setup();
 		String id = GoogleSync.getFileId(null);
 		Assert.assertNull(id);
-	}
+	}*/
 	
 }
